@@ -5,5 +5,8 @@ Se busca predicir el precio de las casas en la India para saber en que momento e
 
 ## FUENTE DE LOS DATOS 📄
 Los datasets que se utilizan en este repositorio:
-[House Price Prediction Dataset](https://www.kaggle.com/datasets/jacksondivakarr/house-price-prediction-dataset)
-[Breast Cancer Wisconsin (Diagnostic)](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
+- [House Price Prediction Dataset](https://www.kaggle.com/datasets/jacksondivakarr/house-price-prediction-dataset)
+- [Breast Cancer Wisconsin (Diagnostic)](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
+
+> [!TIP]
+> Es importante que tengas cuenta en Kaggle para que el notebook 'House Price' sea 100% reproducible 🤓
