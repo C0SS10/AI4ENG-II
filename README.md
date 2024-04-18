@@ -23,6 +23,6 @@ Los datasets que se utilizan en este repositorio:
 
 ## PARTICIPANTES 👥
 
-Esteban Cossio
-Diego Poveda
-Pedro Saldarriaga
+Esteban Cossio  
+Diego Poveda  
+Pedro Saldarriaga  
