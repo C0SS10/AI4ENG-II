@@ -20,3 +20,9 @@ Los datasets que se utilizan en este repositorio:
 
 > [!TIP]
 > Es recomendable que ejecutes los notebooks de arriba hacia abajo. Si por algún motivo tienes problemas en las celdas más avanzadas, te recomendamos ejecutar nuevamente todo el notebook. 😄
+
+## PARTICIPANTES 👥
+
+Esteban Cossio
+Diego Poveda
+Pedro Saldarriaga
